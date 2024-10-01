@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bus-ticket-booking/static/css/main.f8a6ac5a.css",
+    "main.js": "/bus-ticket-booking/static/js/main.7b6db942.js",
+    "static/js/453.9cf7fcc7.chunk.js": "/bus-ticket-booking/static/js/453.9cf7fcc7.chunk.js",
+    "static/media/Header_background.jpg": "/bus-ticket-booking/static/media/Header_background.14a8033e63e20cd9766c.jpg",
+    "static/media/london-bus-1.jpg": "/bus-ticket-booking/static/media/london-bus-1.ba971aa932d737062cdd.jpg",
+    "index.html": "/bus-ticket-booking/index.html",
+    "main.f8a6ac5a.css.map": "/bus-ticket-booking/static/css/main.f8a6ac5a.css.map",
+    "main.7b6db942.js.map": "/bus-ticket-booking/static/js/main.7b6db942.js.map",
+    "453.9cf7fcc7.chunk.js.map": "/bus-ticket-booking/static/js/453.9cf7fcc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8a6ac5a.css",
+    "static/js/main.7b6db942.js"
+  ]
+}
