@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 
 export default function About() {
   return (
@@ -8,6 +9,7 @@ export default function About() {
           <div className="row">
             <div className="col-12">
               <div className="about-us">About</div>
+              <h4 className="text-white"> <NavLink to={'/'} className="text-danger ms-4 ps-5">Home / </NavLink>About </h4>
             </div>
           </div>
         </div>
@@ -17,8 +19,8 @@ export default function About() {
       {/*  */}
       <div className="section2">
         <div className="container-fluid">
-          <div className="row">
-            <div className="col-12">
+          <div className="row" >
+            <div className="col-12" >
               <div className="about-bus-getway">about bus getway</div>
               <div className="aboutpageinfo">
                 We are dedicated to providing the best travel experiences to our
@@ -33,7 +35,7 @@ export default function About() {
 
       <div className="container-fluid s3">
         <div className="row">
-          <div className="col-12 col-lg-6">
+          <div className="col-lg-6 col-sm-12" data-aos="fade-up" data-aos-duration="1500" >
             <h3 className="ms-3">Awesome Tour Details</h3>
             <ul className="ul">
               <li>
@@ -63,8 +65,10 @@ export default function About() {
               </li>
             </ul>
           </div>
-          <div className="col-12 col-lg-6 p">
-            <img src="https://media.gettyimages.com/id/700126362/photo/a-mature-couple-sitting-on-a-bus-wave-goodbye-to-friends.jpg?s=612x612&w=0&k=20&c=6-e_5vH7Ars_iW5DHfyCk6NbVPg27AkVWNRgvElNguQ="></img>
+          <div className="col-lg-6 col-sm-12 about_p" data-aos="fade-down" data-aos-duration="1500">
+            <div className="card card-body">
+            <img src="https://media.gettyimages.com/id/700126362/photo/a-mature-couple-sitting-on-a-bus-wave-goodbye-to-friends.jpg?s=612x612&w=0&k=20&c=6-e_5vH7Ars_iW5DHfyCk6NbVPg27AkVWNRgvElNguQ=" />
+            </div>
           </div>
         </div>
       </div>
@@ -82,7 +86,7 @@ export default function About() {
         <div className="row">
           <div className="col-12 col-lg-3  ">
             <div className="earth">
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyZ9dc4ZZNuFbdO-9LRgPtGFYinKdHdJFWg&s"></img>
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyZ9dc4ZZNuFbdO-9LRgPtGFYinKdHdJFWg&s" ></img>
               <div className="earthtitle">Diverse Destinations</div>
               <div className="earthdescription">
                 Richly varied landscapes,luxury accommodation Travel.

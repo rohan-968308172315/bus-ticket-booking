@@ -191,7 +191,7 @@ export default function Home() {
             </div>
             </div>
 
-            <div className="col-md-4 blog1">
+            <div className="col-md-4 blog1" data-aos="fade-up" data-aos-duration="1500">
               <div class="card card-body p-0">
                <div className="card_bus_an">
                <img
@@ -209,7 +209,7 @@ export default function Home() {
             </div>
            
 
-            <div className="col-md-4 blog1">
+            <div className="col-md-4 blog1" data-aos="fade-up" data-aos-duration="2000">
               <div class="card card-body p-0">
                <div className="card_bus_an">
                <img
@@ -227,7 +227,7 @@ export default function Home() {
             </div>
            
 
-            <div className="col-md-4 blog1">
+            <div className="col-md-4 blog1" data-aos="fade-up" data-aos-duration="1500">
               <div class="card card-body p-0">
                <div className="card_bus_an">
                <img
