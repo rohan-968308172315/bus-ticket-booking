@@ -1,0 +1,190 @@
+{
+  "booking": [
+    {
+      "id": "1",
+      "road": "Ahilyanagar to Pune",
+      "layout": "2 x 2",
+      "type": "AC",
+      "StartTime": "08:00 AM",
+      " EndTime": "04:30 PM",
+      "form": "Ahilyanagar",
+      "distance": "127 km",
+      " to": "Pune",
+      "price": "₹230.00",
+      "offdays": [
+        "friday",
+        "Monday"
+      ],
+      "Facilities": [
+        "Water Bottle",
+        "WiFi"
+      ]
+    },
+    {
+      "id": "2",
+      "road": "Pune to Mumbai",
+      "layout": "2 x 1",
+      "type": "NO-AC",
+      "StartTime": "10:00 AM",
+      "EndTime": "02:00 PM",
+      "form": "Pune",
+      "distance": "150 km",
+      "to": "Mumbai",
+      "price": "₹300.00",
+      "offdays": [
+        "Sunday",
+        "Wednesday"
+      ],
+      "Facilities": [
+        "Newspapers",
+        "Charging Points"
+      ]
+    },
+    {
+      "id": "3",
+      "road": "Pune to Sambaji Nagar",
+      "layout": "2 x 2",
+      "type": "CLASSIC",
+      "StartTime": "06:00 AM",
+      "EndTime": "11:30 AM",
+      "form": "Pune",
+      "distance": "210 km",
+      "to": "Sambaji Nagar",
+      "price": "₹350.00",
+      "offdays": [
+        "Thursday",
+        "Saturday"
+      ],
+      "Facilities": [
+        "Water Bottle",
+        "Snacks"
+      ]
+    },
+    {
+      "id": "4",
+      "road": "Ahilyanagar to Pune",
+      "layout": "2 x 2",
+      "type": "NO-AC",
+      "StartTime": "01:00 PM",
+      "EndTime": "09:00 PM",
+      "form": "Ahilyanagar",
+      "distance": "127 km",
+      "to": "Pune",
+      "price": "₹200.00",
+      "offdays": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "Facilities": [
+        "WiFi",
+        "Charging Points"
+      ]
+    },
+    {
+      "id": "5",
+      "road": "Pune to Mumbai",
+      "layout": "2 x 2",
+      "type": "CLASSIC",
+      "StartTime": "09:00 PM",
+      "EndTime": "01:30 AM",
+      "form": "Pune",
+      "distance": "150 km",
+      "to": "Mumbai",
+      "price": "₹320.00",
+      "offdays": [
+        "Saturday",
+        "Sunday"
+      ],
+      "Facilities": [
+        "WiFi",
+        "Blankets"
+      ]
+    },
+    {
+      "id": "6",
+      "road": "Pune to Sambaji Nagar",
+      "layout": "2 x 1",
+      "type": "NO-AC",
+      "StartTime": "05:00 PM",
+      "EndTime": "10:30 PM",
+      "form": "Pune",
+      "distance": "210 km",
+      "to": "Sambaji Nagar",
+      "price": "₹280.00",
+      "offdays": [
+        "Monday",
+        "Wednesday"
+      ],
+      "Facilities": [
+        "Water Bottle",
+        "Newspapers"
+      ]
+    }
+  ],
+  "user": [
+    {
+      "name": "Nagesh Balu Sonawane",
+      "email": "nageshsonawane870@gmail.com",
+      "number": "08888430137",
+      "username": "nagesh0137",
+      "password": "pass@123",
+      "gender": "male",
+      "profileImage": "",
+      "id": "1"
+    },
+    {
+      "name": "sandip Udhav chavan",
+      "email": "sandip123@gmail.com",
+      "number": "9877654787",
+      "username": "sandip123",
+      "password": "sandip1234",
+      "gender": "male",
+      "id": "2"
+    },
+    {
+      "name": "Nagesh Balu Sonawane",
+      "email": "nageshsonawane870@gmail.com",
+      "number": "08888430137",
+      "username": "nagesh123",
+      "password": "nagesh123",
+      "gender": "male",
+      "id": "3"
+    },
+    {
+      "id": "aa83",
+      "name": "pranjal divate",
+      "email": "code.lpu1@gmail.com",
+      "number": "23456789",
+      "username": "pranjal",
+      "password": "pranjal@1307",
+      "gender": "female"
+    },
+    {
+      "id": "7708",
+      "name": "pranjal divate",
+      "email": "code.lpu1@gmail.com",
+      "number": "23456789",
+      "username": "pranjal",
+      "password": "pranjal@1307",
+      "gender": "female"
+    },
+    {
+      "id": "1cbd",
+      "name": "pranjal divate",
+      "email": "code.lpu1@gmail.com",
+      "number": "23456789",
+      "username": "pranjal",
+      "password": "pranjal@1307",
+      "gender": "female"
+    },
+    {
+      "id": "81f0",
+      "name": "pranjal divate",
+      "email": "code.lpu1@gmail.com",
+      "number": "23456789",
+      "username": "pranjal",
+      "password": "pranjal@1307",
+      "gender": "female"
+    }
+  ]
+}

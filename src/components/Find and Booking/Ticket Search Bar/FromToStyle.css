@@ -1,0 +1,27 @@
+.ticket-form {
+  position: relative;
+  z-index: 2; /* Ensure the form is above the overlay */
+}
+
+.form-group {
+  position: relative;
+}
+
+.form-group i {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+  font-size: 1.5rem;
+  color: #555; /* Adjust icon color as needed */
+}
+
+.form-control {
+  padding-left: 2.5rem; /* Adjust to make space for the icon */
+}
+.bus-search-header {
+  margin-top: -100px;
+  z-index: 2;
+  padding: 80px;
+  background-color: whitesmoke;
+}

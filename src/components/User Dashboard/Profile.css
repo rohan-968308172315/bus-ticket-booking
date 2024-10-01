@@ -1,0 +1,73 @@
+/* Example of custom CSS */
+a {
+  text-decoration: none !important;
+}
+.profile-pic img {
+  width: 30px;
+  border-radius: 50%;
+}
+
+.profile-info h3 {
+  color: #333;
+}
+
+/* dropdown-menu */
+.dropdown-menu {
+  background: rgb(249, 247, 247);
+  backdrop-filter: blur(100px);
+}
+.dropdown-item:hover {
+  background: #f00b51;
+  color: #fff;
+  transform: scale(1.1);
+  transition: 0.5s;
+  border-radius: 5px;
+}
+
+/* edit profile */
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: #f00b51;
+}
+
+.profile-button {
+  background: #f00b51;
+  box-shadow: none;
+  border: none;
+}
+
+.profile-button:hover {
+  background: #d33344;
+}
+
+.profile-button:focus {
+  background: #682773;
+  box-shadow: none;
+}
+
+.profile-button:active {
+  background: #682773;
+  box-shadow: none;
+}
+
+.back:hover {
+  color: #682773;
+  cursor: pointer;
+}
+.booking-history tr th {
+  background-color: #d33344;
+  color: #fff;
+}
+.booking-history tr th:nth-child(1) {
+  border-radius: 10px 0px 0px 0px;
+}
+.booking-history tr th:nth-child(10) {
+  border-radius: 0px 10px 0px 0px;
+}
+
+/* support ticket */
+#contact-form label {
+  margin-top: 15px;
+  margin-bottom: 5px;
+}

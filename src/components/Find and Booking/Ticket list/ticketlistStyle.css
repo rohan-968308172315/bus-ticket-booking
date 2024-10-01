@@ -1,0 +1,38 @@
+.bus-time p {
+  font-size: 23px;
+}
+.ticket-price p span {
+  border: 1px solid #d33344;
+  color: #f00b51 !important;
+  background-color: #d333432a;
+}
+.ticket-list {
+  background-color: whitesmoke;
+}
+.ticket-footer p span {
+  border: 1px solid #323a8c;
+  background-color: #32398c26;
+}
+
+.no-bus-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  text-align: center;
+}
+
+.no-bus-content {
+  max-width: 400px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.no-bus-icon {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 20px;
+  color: #ff6f61; /* You can change this color as per your theme */
+}
